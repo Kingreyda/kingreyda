@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I'm Olaribigbe King David.**
+**I'm King David Olaribigbe.**
 
 ## 🚀 About Me
 - 🌱 I’m currently learning Python, Git and GitHub...
